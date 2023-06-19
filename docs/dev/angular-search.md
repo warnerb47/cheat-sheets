@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+sidebar_label: Global search in angular with rxjs
 ---
 
 # Create a Page
